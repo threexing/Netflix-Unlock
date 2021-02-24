@@ -1,6 +1,7 @@
 ## 使用方法
 自己先安装Curl
-`bash <(curl -sSL "https://github.com/CoiaPrant/Netflix_Unlock_Information/raw/main/netflix.sh")`
+检测命令 `bash <(curl -sSL "https://github.com/CoiaPrant/Netflix_Unlock_Information/raw/main/netflix.sh")`
+备用命令 `bash <(curl -sSL "https://www.zeroteam.top/files/netflix.sh")`
 
 ## 特性
 - 支持双栈测试
@@ -20,7 +21,7 @@
 ~~我觉得没必要了吧~~
 如果你想的话我也不介意
 ![zfb.jpg](https://www.zeroteam.top/images/zfb.jpg)
-![wx.png](https://www.zeroteam.top/images/wx.jpg)
+![wx.png](https://www.zeroteam.top/images/wx.png)
 ~~我真是厚颜无耻啊~~
 ## 关于
 就是闲得无聊整的玩意，也有很多带佬反馈，有问题也会及时更新的
