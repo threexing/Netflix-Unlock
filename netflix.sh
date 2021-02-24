@@ -82,8 +82,8 @@ export LANG="en_US";
 export LANGUAGE="en_US";
 export LC_ALL="en_US";
 clear;
-echo -e " ** Version: v4.2";
-echo -e "\033[31mBy threexing \033[0m";
+echo -e " ** Netflix Unlock v4.2";
+echo -e "\033[31m By threexing \033[0m";
 
 curl -V > /dev/null 2>&1;
 if [ $? -ne 0 ];then
